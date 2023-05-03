@@ -19,3 +19,4 @@ def view_order_history(user_id):
 
     # Close the connection to the database
     conn.close()
+    
